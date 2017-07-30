@@ -1,0 +1,114 @@
+﻿
+
+<body>
+<div class="wrapper" style="padding: 0;">
+<section class="header widescreen">
+<div class="dnn_layout_ws ">
+<div class="container-fluid">
+<div class="row">
+<div class="hd-logo col-sm-2 col-md-2">
+<a href="/"><img src="/resources/img/logo.png" /></a>
+</div>
+<div class="hg-searchBox col-sm-7 col-md-5">
+<form action="/words" method="get">
+<input type="text" id="w" name="w" class="sea-inp left" value="'gainst">
+<button type="submit" class="sea-btn">搜 索</button>
+</form>
+</div>
+
+</div>
+</div>
+</div>
+</section>
+<nav class="widescreenNav">
+<div class="dnn_layout_ws">
+<div class="container-fluid ">
+<ul class="wNav-item clearfix">
+<li class="current">基本释义</li>
+<li>词形变化</li>
+<li class="lastlili">场景例句</li>
+</ul>
+</div>
+</div>
+</nav>
+<section class="content">
+<div class="dnn_layout_ws wsPage">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-lg-7 checkWord">
+<div class="textMain">
+<p class="text">gainst</p>
+<div class="vos">
+<span>
+<a href="javascript:void(0)" onclick="audioPlay(this)"><img class="speaker" src="/resources/img/trumpet.png"/><img class="wave1" src="/resources/img/wave-1.png" style="visibility:hidden"/><img class="wave2" src="/resources/img/wave-2.png" style="visibility:hidden"/></a>
+英[ɡenst]<audio src="https://mp3.91dict.com/word/gainst_e.mp3?auth_key=1501113600-0-0-d72725278c6f36a441a17cfdae2df47b"></audio>
+</span>
+</div>
+<div class="tag">
+</div>
+</div>
+<div class="tmInfo">
+<div class="listBox">
+prep. 反抗（等于against）<div class="poBottom">
+</div>
+</div>
+<div class="listBox hide">
+<div class="poBottom">
+</div>
+</div>
+<div class="listBox hide">
+<div class="calOut">
+<div id="flexslider_2" class="flexslider flexslider_2">
+<ul class="slides clearfix">
+<li style="display: none">
+<div class="imgMainbox">
+<img src="https://img.91dict.com/img2/044ccae8fd9dffe1b7711db0ee079713/1220.jpg?x-oss-process=image/resize,m_fill,h_494,w_800&auth_key=1501113600-0-0-c90fd8f638d16d035102039090a7a720" />
+<div class="carousel-caption">
+<div class="mTop" style="position:absolute">
+<a href="javascript:void(0)" onclick="audioPlay(this)">
+<img class="speaker" src="/resources/img/trumpet2.png"/>
+<img class="wave1" src="/resources/img/wave2-1.png" />
+<img class="wave2" src="/resources/img/wave2-2.png" />
+</a>
+<audio src="https://mp3.91dict.com/mp32/044ccae8fd9dffe1b7711db0ee079713/1220.mp3?auth_key=1501113600-0-0-c6b45406cd8022f96049c7b77e2e0e35"></audio>
+来自《午夜巴黎》
+</div>
+<div class="mBottom">
+Cold Cape Cod clams <em>'gainst</em> their wish, do it</div>
+<div class="mFoot">
+寒冷的开普敦的蚌如此 虽然不情愿</div>
+</div>
+</div>
+<div class="mTextend">
+<div class="box">
+<div class="sty1">上文</div>
+<div class="sty2">
+<p>Let's do it Let's fall in love</p>
+<p>来吧 让我们坠入爱河</p>
+</div>
+</div>
+<div class="box">
+<div class="sty1">下文</div>
+<div class="sty2">
+<p>Even lazy jellyfish do it</p>
+<p>连懒惰的水母都如此</p>
+</div>
+</div>
+</div>
+<a href="/r_subs?sub_id=2607451&w='gainst" class="viewdetail">查看详情</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-12 information"></div>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+</>
