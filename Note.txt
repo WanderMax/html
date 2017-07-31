@@ -1,0 +1,30 @@
+<li style="display: none">   --> <li class="Max_Mod">
+style="visibility:hidden" --> del for speaker icon
+
+
+
+replace icon for speaker for all
+
+删除空内容标签
+<div class="[]a-z0-9 \-]{0,30}">\r*\n*</div>
+
+
+希望更多变化
+
+<div class="listBox">
+n. 希望；期望；信心<br>
+vt. 希望；期望<br>
+vi. 希望；期待；信赖<br>
+n. (Hope)人名；(印)霍普；(法)奥普；(西)奥佩
+<div class="poBottom">
+</div>
+</div>
+<div class="listBox hide">
+<p>第三人称单数：hopes</p>
+<p>过去式：hoped</p>
+<p>现在分词：hoping</p>
+<p>过去分词：hoped</p>
+<p>复数形式：hopes</p>
+<div class="poBottom">
+</div>
+</div>
