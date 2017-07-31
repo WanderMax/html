@@ -6,7 +6,7 @@ style="visibility:hidden" --> del for speaker icon
 replace icon for speaker for all
 
 删除空内容标签
-<div class="[]a-z0-9 \-]{0,30}">\r*\n*</div>
+<div class="[a-z0-9 \-]{0,30}">\r*\n*\s*\t*</div>
 
 
 希望更多变化
