@@ -1,0 +1,321 @@
+
+/* 搜索 */
+section.header.widescreen {
+    display:none;   
+}
+
+/* 词条分栏 */
+nav.widescreenNav {
+    display:none;
+}
+
+.dnn_layout_ws {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.clearfix {
+#    display: none;
+}
+
+ ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.wNav-item li {
+    float: left;
+    line-height: 52px;
+    font-size: 16px;
+    color: #464646;
+    position: relative;
+    margin-right: 100px;
+    cursor: pointer;
+}
+
+
+/* 词条释义 */
+.wsPage {
+    padding: 0px ;
+}
+
+.wsPage .textMain {
+#    display:inline-block;
+    border: 1px solid #f4f4f4;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.13);
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.textMain p.text {
+    color: #464646;
+    font-size: 180%;
+    line-height: 40px;
+    margin: 3px;   
+    display: inline;
+}
+
+/* 词条发音 */
+.vos {
+    margin-left: 5px;
+    display: inline;
+}
+
+.vos span {
+    margin: 5px;
+}
+
+.vos img.speaker {
+
+}
+.vos img.wave1 {
+
+}
+.vos img.wave2 {
+    margin-right: 5px;
+}
+
+/* 词条重要性 */
+.textMain .tag a.color1 {
+    color: #fff;
+    font-size: 90%;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin-right: 2px;
+    background-color: #98cedc;
+}
+
+.textMain .tag a.color3 {
+    color: #fff;
+    font-size: 90%;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin-right: 2px;
+    background-color: #df3031;
+}
+
+.textMain .tag a.color6 {
+    color: #fff;
+    font-size: 90%;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin-right: 2px;
+    background-color: #aea2c3;
+}
+
+
+/* 词条解释 */
+.tmInfo {
+    margin-top: 5px;
+#    max-width: 800px;
+#    min-width: 500px;
+    border: 1px solid #f4f4f4;
+    border-radius: 5px;
+    padding: 3px 5px;
+}
+
+.tmInfo .listBox {
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left:10px;
+    
+}
+
+.hide {
+    display: block;
+}
+
+/* 词条变形 */
+.listBox p {
+    display: inline-block;
+    margin: 0px 3px 3px 0px;
+}
+
+/* 贡献者 */
+.poBottom {
+    display: none;
+}
+
+/* 实例解释*/
+.tmInfo .calOut {
+    display: inline-block;
+    background-color: #fff;
+    border: 3px solid #f4f4f4;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.13);
+#    margin-left: 10px;
+    padding: 5px 5px;
+}
+
+.flexslider_2 {
+    padding-bottom: 10px;
+}
+
+.flexslider {
+    position: relative;
+}
+
+
+
+
+/* 实景列表 */
+ul.slides.clearfix li {
+    width: 100%;
+    position: relative;
+    display: list-item;
+}
+
+.flexslider_2 .slides li .imgMainbox {
+    position: relative;
+}
+
+.imgMainbox img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0px;
+}
+
+
+/* .flexslider_2 .slides li .carousel-caption  */
+
+.carousel-caption {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: none;
+    width: 100%;
+    height: 100%;
+}
+
+/* 顶部来源 */
+.flexslider_2 .carousel-caption .mTop {
+    position: absolute;
+    height: 35px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding-left: 5px;
+    line-height: 35px;
+    font-size: 16px;
+    margin-top: 5px;
+    text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) 0px 1px 0px, rgb(0, 0, 0) -1px 0px 0px, rgb(0, 0, 0) 0px -1px 0px;
+}
+
+.flexslider_2 .carousel-caption .mTop a {
+    display: inline-block;
+} 
+
+/* 实例发音 */
+.mTop a .speaker {
+}
+
+.mTop a .wave1 {
+    display: none;
+}
+
+.mTop a .wave2 {
+    display: none;
+}
+
+/* 底部英文 */
+.flexslider_2 .carousel-caption .mBottom {
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+    width: 100%;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+#    padding: 0px 120px;
+    line-height: 30px;
+    text-shadow: rgb(0, 81, 119) 1px 0px 0px, rgb(0, 81, 119) 0px 1px 0px, rgb(0, 81, 119) -1px 0px 0px, rgb(0, 81, 119) 0px -1px 0px;
+}
+
+.flexslider_2 .carousel-caption .mBottom em {
+    color: rgb(255, 168, 0);
+}
+
+
+/* 底部中文 */
+.flexslider_2 .carousel-caption .mFoot {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    padding: 0px 5px;
+    line-height: normal;
+    text-shadow: rgb(0, 8, 10) 1px 0px 0px, rgb(0, 8, 10) 0px 1px 0px, rgb(0, 8, 10) -1px 0px 0px, rgb(0, 8, 10) 0px -1px 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 底部上下文 */
+.flexslider_2 .mTextend .box {
+    margin-top: 5px;
+    display: block;
+}
+
+/*上下文 */
+.flexslider_2 .mTextend .box .sty1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(70, 70, 70);
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+.flexslider_2 .mTextend .box .sty2 {
+    display: inline-block;
+    border-left: 1px solid rgb(70, 70, 70);
+    vertical-align: middle;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.flexslider_2 .mTextend .box .sty2 p {
+    font-size: 14px;
+    color: rgb(130, 130, 130);
+    line-height: 16px;
+    margin: 0px;
+    padding: 3px 0px;
+}
+
+.flexslider_2 .viewdetail {
+    font-size: 14px;
+    color: rgb(70, 70, 70);
+    display: block;
+    margin-right: 10px;
+    text-align: right;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    margin-top: 0px;
+    padding-bottom: 5px;
+}
+
+
+/* 隐藏页面多余元素 */
+.col-sm-12.col-lg-5.checkWord,
+.col-sm-12 .information,
+section.foot.footMob{
+    display: none;
+}
